@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.11)  12 MAR 2021 16:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.11)  16 MAR 2021 00:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**main-revRBvD2.tex
-(./main-revRBvD2.tex
+**main_v3.tex
+(./main_v3.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18>
 (/usr/local/texlive/2020/texmf-dist/tex/latex/revtex/revtex4-2.cls
@@ -302,8 +302,8 @@ Class revtex4-2 Info: cite was not loaded (OK!) on input line 11.
 Class revtex4-2 Info: mcite was not loaded (OK!) on input line 11.
 Class revtex4-2 Info: multicol was not loaded (OK!) on input line 11.
 
-(./main-revRBvD2.aux)
-\openout1 = `main-revRBvD2.aux'.
+(./main_v3.aux)
+\openout1 = `main_v3.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
@@ -348,7 +348,7 @@ Package chemgreek Info: Activating mapping `default' on line 11.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
-\openout3 = `main-revRBvD2Notes.bib'.
+\openout3 = `main_v3Notes.bib'.
 
 
 Underfull \hbox (badness 1082) in paragraph at lines 53--54
@@ -356,309 +356,328 @@ Underfull \hbox (badness 1082) in paragraph at lines 53--54
  []
 
 [1{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<windowedwafercolors.png, id=20, 429.605pt x 429.605pt>
-File: windowedwafercolors.png Graphic file (type png)
-<use windowedwafercolors.png>
-Package pdftex.def Info: windowedwafercolors.png  used on input line 67.
+<./assets/windowedwafercolors.png, id=20, 429.605pt x 429.605pt>
+File: ./assets/windowedwafercolors.png Graphic file (type png)
+<use ./assets/windowedwafercolors.png>
+Package pdftex.def Info: ./assets/windowedwafercolors.png  used on input line 6
+7.
 (pdftex.def)             Requested size: 203.99689pt x 203.99893pt.
 
-Underfull \hbox (badness 3229) in paragraph at lines 72--77
+Underfull \hbox (badness 3229) in paragraph at lines 72--76
 []\OT1/cmr/m/n/10 Binary $[][][][][][]$ and Ta$[]$Ge$[]$O$[]$ com-po-si-tion
  []
 
 
-Underfull \hbox (badness 1496) in paragraph at lines 72--77
+Underfull \hbox (badness 1496) in paragraph at lines 72--76
 \OT1/cmr/m/n/10 us-ing re-ac-tive ra-dio fre-quency (rf) sput-ter-ing from
  []
 
 
-Underfull \hbox (badness 4403) in paragraph at lines 72--77
+Underfull \hbox (badness 4403) in paragraph at lines 72--76
 \OT1/cmr/m/n/10 two-inch-diameter metal tar-gets in the 90\TS1/cmr/m/n/10 °\OT1
 /cmr/m/n/10 off-axis
  []
 
 
-Underfull \hbox (badness 1394) in paragraph at lines 72--77
+Underfull \hbox (badness 1394) in paragraph at lines 72--76
 \OT1/cmr/m/n/10 configuration[[]]. 12x12 ar-rays were used for the
  []
 
-[2 <./windowedwafercolors.png (PNG copy)>] [3]
-Package epstopdf Info: Source file: <quench.eps>
-(epstopdf)                    date: 2018-05-11 16:13:30
+[2 <./assets/windowedwafercolors.png (PNG copy)>] [3]
+Package epstopdf Info: Source file: <./assets/quench.eps>
+(epstopdf)                    date: 2021-03-14 23:30:41
 (epstopdf)                    size: 182845 bytes
-(epstopdf)             Output file: <quench-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-07-13 03:35:16
-(epstopdf)                    size: 8449 bytes
-(epstopdf)             Command: <repstopdf --outfile=quench-eps-converted-to.pd
-f quench.eps>
-(epstopdf)             \includegraphics on input line 118.
+(epstopdf)             Output file: <./assets/quench-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-03-14 23:33:16
+(epstopdf)                    size: 8662 bytes
+(epstopdf)             Command: <repstopdf --outfile=./assets/quench-eps-conver
+ted-to.pdf ./assets/quench.eps>
+(epstopdf)             \includegraphics on input line 117.
 Package epstopdf Info: Output file is already uptodate.
-<quench-eps-converted-to.pdf, id=33, 415.5525pt x 278.03876pt>
-File: quench-eps-converted-to.pdf Graphic file (type pdf)
-<use quench-eps-converted-to.pdf>
-Package pdftex.def Info: quench-eps-converted-to.pdf  used on input line 118.
+<./assets/quench-eps-converted-to.pdf, id=33, 415.5525pt x 278.03876pt>
+File: ./assets/quench-eps-converted-to.pdf Graphic file (type pdf)
+<use ./assets/quench-eps-converted-to.pdf>
+Package pdftex.def Info: ./assets/quench-eps-converted-to.pdf  used on input li
+ne 117.
 (pdftex.def)             Requested size: 203.99689pt x 136.49048pt.
-<12F74-diff_640.png, id=34, 642.4pt x 642.4pt>
-File: 12F74-diff_640.png Graphic file (type png)
-<use 12F74-diff_640.png>
-Package pdftex.def Info: 12F74-diff_640.png  used on input line 131.
+<./assets/12F74-diff_640.png, id=34, 642.4pt x 642.4pt>
+File: ./assets/12F74-diff_640.png Graphic file (type png)
+<use ./assets/12F74-diff_640.png>
+Package pdftex.def Info: ./assets/12F74-diff_640.png  used on input line 130.
 (pdftex.def)             Requested size: 153.00156pt x 153.00288pt.
-Package epstopdf Info: Source file: <ivq.eps>
-(epstopdf)                    date: 2018-05-14 22:57:48
+Package epstopdf Info: Source file: <./assets/ivq.eps>
+(epstopdf)                    date: 2021-03-14 23:29:58
 (epstopdf)                    size: 116396 bytes
-(epstopdf)             Output file: <ivq-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-07-13 03:35:18
-(epstopdf)                    size: 184286 bytes
-(epstopdf)             Command: <repstopdf --outfile=ivq-eps-converted-to.pdf i
-vq.eps>
-(epstopdf)             \includegraphics on input line 134.
+(epstopdf)             Output file: <./assets/ivq-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-03-14 23:34:37
+(epstopdf)                    size: 184499 bytes
+(epstopdf)             Command: <repstopdf --outfile=./assets/ivq-eps-converted
+-to.pdf ./assets/ivq.eps>
+(epstopdf)             \includegraphics on input line 133.
 Package epstopdf Info: Output file is already uptodate.
-<ivq-eps-converted-to.pdf, id=35, 243.91125pt x 177.66376pt>
-File: ivq-eps-converted-to.pdf Graphic file (type pdf)
-<use ivq-eps-converted-to.pdf>
-Package pdftex.def Info: ivq-eps-converted-to.pdf  used on input line 134.
+<./assets/ivq-eps-converted-to.pdf, id=35, 243.91125pt x 177.66376pt>
+File: ./assets/ivq-eps-converted-to.pdf Graphic file (type pdf)
+<use ./assets/ivq-eps-converted-to.pdf>
+Package pdftex.def Info: ./assets/ivq-eps-converted-to.pdf  used on input line 
+133.
 (pdftex.def)             Requested size: 229.49844pt x 167.1666pt.
- [4 <./quench-eps-converted-to.pdf> <./12F74-diff_640.png (PNG copy)> <./ivq-ep
-s-converted-to.pdf>]
-Package epstopdf Info: Source file: <grfq.eps>
-(epstopdf)                    date: 2018-05-14 22:57:56
+ [4 <./assets/quench-eps-converted-to.pdf> <./assets/12F74-diff_640.png (PNG co
+py)> <./assets/ivq-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <./assets/grfq.eps>
+(epstopdf)                    date: 2021-03-14 23:29:58
 (epstopdf)                    size: 83965 bytes
-(epstopdf)             Output file: <grfq-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-07-13 03:35:18
-(epstopdf)                    size: 36011 bytes
-(epstopdf)             Command: <repstopdf --outfile=grfq-eps-converted-to.pdf 
-grfq.eps>
-(epstopdf)             \includegraphics on input line 152.
+(epstopdf)             Output file: <./assets/grfq-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-03-14 23:35:05
+(epstopdf)                    size: 36224 bytes
+(epstopdf)             Command: <repstopdf --outfile=./assets/grfq-eps-converte
+d-to.pdf ./assets/grfq.eps>
+(epstopdf)             \includegraphics on input line 151.
 Package epstopdf Info: Output file is already uptodate.
-<grfq-eps-converted-to.pdf, id=82, 243.91125pt x 177.66376pt>
-File: grfq-eps-converted-to.pdf Graphic file (type pdf)
-<use grfq-eps-converted-to.pdf>
-Package pdftex.def Info: grfq-eps-converted-to.pdf  used on input line 152.
+<./assets/grfq-eps-converted-to.pdf, id=82, 243.91125pt x 177.66376pt>
+File: ./assets/grfq-eps-converted-to.pdf Graphic file (type pdf)
+<use ./assets/grfq-eps-converted-to.pdf>
+Package pdftex.def Info: ./assets/grfq-eps-converted-to.pdf  used on input line
+ 151.
 (pdftex.def)             Requested size: 221.3985pt x 161.26762pt.
-Package epstopdf Info: Source file: <waterfall.eps>
-(epstopdf)                    date: 2020-12-02 01:45:00
+Package epstopdf Info: Source file: <./assets/waterfall.eps>
+(epstopdf)                    date: 2021-03-14 23:30:41
 (epstopdf)                    size: 259638 bytes
-(epstopdf)             Output file: <waterfall-eps-converted-to.pdf>
-(epstopdf)                    date: 2020-12-02 01:45:56
-(epstopdf)                    size: 34691 bytes
-(epstopdf)             Command: <repstopdf --outfile=waterfall-eps-converted-to
-.pdf waterfall.eps>
-(epstopdf)             \includegraphics on input line 159.
+(epstopdf)             Output file: <./assets/waterfall-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-03-14 23:33:17
+(epstopdf)                    size: 34907 bytes
+(epstopdf)             Command: <repstopdf --outfile=./assets/waterfall-eps-con
+verted-to.pdf ./assets/waterfall.eps>
+(epstopdf)             \includegraphics on input line 158.
 Package epstopdf Info: Output file is already uptodate.
-<waterfall-eps-converted-to.pdf, id=83, 624.3325pt x 618.31pt>
-File: waterfall-eps-converted-to.pdf Graphic file (type pdf)
-<use waterfall-eps-converted-to.pdf>
-Package pdftex.def Info: waterfall-eps-converted-to.pdf  used on input line 159
-.
+<./assets/waterfall-eps-converted-to.pdf, id=83, 624.3325pt x 618.31pt>
+File: ./assets/waterfall-eps-converted-to.pdf Graphic file (type pdf)
+<use ./assets/waterfall-eps-converted-to.pdf>
+Package pdftex.def Info: ./assets/waterfall-eps-converted-to.pdf  used on input
+ line 158.
 (pdftex.def)             Requested size: 203.99689pt x 202.02391pt.
-Package epstopdf Info: Source file: <contour.eps>
-(epstopdf)                    date: 2020-12-02 01:44:58
+Package epstopdf Info: Source file: <./assets/contour.eps>
+(epstopdf)                    date: 2021-03-14 23:29:58
 (epstopdf)                    size: 426808 bytes
-(epstopdf)             Output file: <contour-eps-converted-to.pdf>
-(epstopdf)                    date: 2020-12-02 01:45:36
-(epstopdf)                    size: 35038 bytes
-(epstopdf)             Command: <repstopdf --outfile=contour-eps-converted-to.p
-df contour.eps>
-(epstopdf)             \includegraphics on input line 161.
+(epstopdf)             Output file: <./assets/contour-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-03-14 23:33:18
+(epstopdf)                    size: 35252 bytes
+(epstopdf)             Command: <repstopdf --outfile=./assets/contour-eps-conve
+rted-to.pdf ./assets/contour.eps>
+(epstopdf)             \includegraphics on input line 160.
 Package epstopdf Info: Output file is already uptodate.
-<contour-eps-converted-to.pdf, id=84, 600.2425pt x 448.67625pt>
-File: contour-eps-converted-to.pdf Graphic file (type pdf)
-<use contour-eps-converted-to.pdf>
-Package pdftex.def Info: contour-eps-converted-to.pdf  used on input line 161.
+<./assets/contour-eps-converted-to.pdf, id=84, 600.2425pt x 448.67625pt>
+File: ./assets/contour-eps-converted-to.pdf Graphic file (type pdf)
+<use ./assets/contour-eps-converted-to.pdf>
+Package pdftex.def Info: ./assets/contour-eps-converted-to.pdf  used on input l
+ine 160.
 (pdftex.def)             Requested size: 221.3985pt x 165.49414pt.
-Package epstopdf Info: Source file: <xas_mu.eps>
-(epstopdf)                    date: 2018-05-14 22:53:36
+Package epstopdf Info: Source file: <./assets/xas_mu.eps>
+(epstopdf)                    date: 2021-03-14 23:30:42
 (epstopdf)                    size: 71612 bytes
-(epstopdf)             Output file: <xas_mu-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-07-13 03:35:20
-(epstopdf)                    size: 21837 bytes
-(epstopdf)             Command: <repstopdf --outfile=xas_mu-eps-converted-to.pd
-f xas_mu.eps>
-(epstopdf)             \includegraphics on input line 170.
+(epstopdf)             Output file: <./assets/xas_mu-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-03-14 23:33:18
+(epstopdf)                    size: 22050 bytes
+(epstopdf)             Command: <repstopdf --outfile=./assets/xas_mu-eps-conver
+ted-to.pdf ./assets/xas_mu.eps>
+(epstopdf)             \includegraphics on input line 169.
 Package epstopdf Info: Output file is already uptodate.
-<xas_mu-eps-converted-to.pdf, id=85, 243.91125pt x 177.66376pt>
-File: xas_mu-eps-converted-to.pdf Graphic file (type pdf)
-<use xas_mu-eps-converted-to.pdf>
-Package pdftex.def Info: xas_mu-eps-converted-to.pdf  used on input line 170.
+<./assets/xas_mu-eps-converted-to.pdf, id=85, 243.91125pt x 177.66376pt>
+File: ./assets/xas_mu-eps-converted-to.pdf Graphic file (type pdf)
+<use ./assets/xas_mu-eps-converted-to.pdf>
+Package pdftex.def Info: ./assets/xas_mu-eps-converted-to.pdf  used on input li
+ne 169.
 (pdftex.def)             Requested size: 255.0pt x 185.74187pt.
-Package epstopdf Info: Source file: <exafs_chik.eps>
-(epstopdf)                    date: 2018-05-14 22:53:50
+Package epstopdf Info: Source file: <./assets/exafs_chik.eps>
+(epstopdf)                    date: 2021-03-14 23:29:58
 (epstopdf)                    size: 96106 bytes
-(epstopdf)             Output file: <exafs_chik-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-07-13 03:35:20
-(epstopdf)                    size: 30027 bytes
-(epstopdf)             Command: <repstopdf --outfile=exafs_chik-eps-converted-t
-o.pdf exafs_chik.eps>
-(epstopdf)             \includegraphics on input line 172.
+(epstopdf)             Output file: <./assets/exafs_chik-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-03-14 23:33:19
+(epstopdf)                    size: 30240 bytes
+(epstopdf)             Command: <repstopdf --outfile=./assets/exafs_chik-eps-co
+nverted-to.pdf ./assets/exafs_chik.eps>
+(epstopdf)             \includegraphics on input line 171.
 Package epstopdf Info: Output file is already uptodate.
-<exafs_chik-eps-converted-to.pdf, id=86, 243.91125pt x 177.66376pt>
-File: exafs_chik-eps-converted-to.pdf Graphic file (type pdf)
-<use exafs_chik-eps-converted-to.pdf>
-Package pdftex.def Info: exafs_chik-eps-converted-to.pdf  used on input line 17
-2.
+<./assets/exafs_chik-eps-converted-to.pdf, id=86, 243.91125pt x 177.66376pt>
+File: ./assets/exafs_chik-eps-converted-to.pdf Graphic file (type pdf)
+<use ./assets/exafs_chik-eps-converted-to.pdf>
+Package pdftex.def Info: ./assets/exafs_chik-eps-converted-to.pdf  used on inpu
+t line 171.
 (pdftex.def)             Requested size: 255.0pt x 185.74187pt.
-Package epstopdf Info: Source file: <exafs_chir.eps>
-(epstopdf)                    date: 2018-05-14 22:53:58
+Package epstopdf Info: Source file: <./assets/exafs_chir.eps>
+(epstopdf)                    date: 2021-03-14 23:29:58
 (epstopdf)                    size: 78754 bytes
-(epstopdf)             Output file: <exafs_chir-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-07-13 03:35:22
-(epstopdf)                    size: 25864 bytes
-(epstopdf)             Command: <repstopdf --outfile=exafs_chir-eps-converted-t
-o.pdf exafs_chir.eps>
-(epstopdf)             \includegraphics on input line 174.
+(epstopdf)             Output file: <./assets/exafs_chir-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-03-14 23:33:19
+(epstopdf)                    size: 26077 bytes
+(epstopdf)             Command: <repstopdf --outfile=./assets/exafs_chir-eps-co
+nverted-to.pdf ./assets/exafs_chir.eps>
+(epstopdf)             \includegraphics on input line 173.
 Package epstopdf Info: Output file is already uptodate.
-<exafs_chir-eps-converted-to.pdf, id=87, 243.91125pt x 177.66376pt>
-File: exafs_chir-eps-converted-to.pdf Graphic file (type pdf)
-<use exafs_chir-eps-converted-to.pdf>
-Package pdftex.def Info: exafs_chir-eps-converted-to.pdf  used on input line 17
-4.
+<./assets/exafs_chir-eps-converted-to.pdf, id=87, 243.91125pt x 177.66376pt>
+File: ./assets/exafs_chir-eps-converted-to.pdf Graphic file (type pdf)
+<use ./assets/exafs_chir-eps-converted-to.pdf>
+Package pdftex.def Info: ./assets/exafs_chir-eps-converted-to.pdf  used on inpu
+t line 173.
 (pdftex.def)             Requested size: 255.0pt x 185.74187pt.
- [5 <./grfq-eps-converted-to.pdf> <./waterfall-eps-converted-to.pdf> <./contour
--eps-converted-to.pdf>] [6 <./xas_mu-eps-converted-to.pdf> <./exafs_chik-eps-co
-nverted-to.pdf> <./exafs_chir-eps-converted-to.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 221--221
+ [5 <./assets/grfq-eps-converted-to.pdf> <./assets/waterfall-eps-converted-to.p
+df> <./assets/contour-eps-converted-to.pdf>] [6 <./assets/xas_mu-eps-converted-
+to.pdf> <./assets/exafs_chik-eps-converted-to.pdf> <./assets/exafs_chir-eps-con
+verted-to.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 216--216
 []\OT1/cmr/m/n/9 TABLE I. EX-AFS fit pa-ram-e-ters for Ta$[]$O$[]$ and
  []
 
 
-Underfull \hbox (badness 4353) in paragraph at lines 221--221
+Underfull \hbox (badness 4353) in paragraph at lines 216--216
 \OT1/cmr/m/n/9 Ta$[]$Ge$[]$O$[]$ amor-phous thin films on sil-i-con ni-
  []
 
-Package epstopdf Info: Source file: <exafs_ta2o5.eps>
-(epstopdf)                    date: 2018-05-15 12:51:12
+Package epstopdf Info: Source file: <./assets/exafs_ta2o5.eps>
+(epstopdf)                    date: 2021-03-14 23:29:58
 (epstopdf)                    size: 71416 bytes
-(epstopdf)             Output file: <exafs_ta2o5-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-07-13 03:35:22
-(epstopdf)                    size: 27957 bytes
-(epstopdf)             Command: <repstopdf --outfile=exafs_ta2o5-eps-converted-
-to.pdf exafs_ta2o5.eps>
-(epstopdf)             \includegraphics on input line 227.
+(epstopdf)             Output file: <./assets/exafs_ta2o5-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2021-03-14 23:34:38
+(epstopdf)                    size: 28170 bytes
+(epstopdf)             Command: <repstopdf --outfile=./assets/exafs_ta2o5-eps-c
+onverted-to.pdf ./assets/exafs_ta2o5.eps>
+(epstopdf)             \includegraphics on input line 222.
 Package epstopdf Info: Output file is already uptodate.
-<exafs_ta2o5-eps-converted-to.pdf, id=274, 243.91125pt x 177.66376pt>
-File: exafs_ta2o5-eps-converted-to.pdf Graphic file (type pdf)
-<use exafs_ta2o5-eps-converted-to.pdf>
-Package pdftex.def Info: exafs_ta2o5-eps-converted-to.pdf  used on input line 2
-27.
+<./assets/exafs_ta2o5-eps-converted-to.pdf, id=274, 243.91125pt x 177.66376pt>
+File: ./assets/exafs_ta2o5-eps-converted-to.pdf Graphic file (type pdf)
+<use ./assets/exafs_ta2o5-eps-converted-to.pdf>
+Package pdftex.def Info: ./assets/exafs_ta2o5-eps-converted-to.pdf  used on inp
+ut line 222.
 (pdftex.def)             Requested size: 203.99689pt x 148.59132pt.
-Package epstopdf Info: Source file: <exafs_ta15.eps>
-(epstopdf)                    date: 2018-05-14 22:54:22
+Package epstopdf Info: Source file: <./assets/exafs_ta15.eps>
+(epstopdf)                    date: 2021-03-14 23:29:58
 (epstopdf)                    size: 72671 bytes
-(epstopdf)             Output file: <exafs_ta15-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-07-13 03:35:22
-(epstopdf)                    size: 28955 bytes
-(epstopdf)             Command: <repstopdf --outfile=exafs_ta15-eps-converted-t
-o.pdf exafs_ta15.eps>
-(epstopdf)             \includegraphics on input line 229.
+(epstopdf)             Output file: <./assets/exafs_ta15-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-03-14 23:34:38
+(epstopdf)                    size: 29168 bytes
+(epstopdf)             Command: <repstopdf --outfile=./assets/exafs_ta15-eps-co
+nverted-to.pdf ./assets/exafs_ta15.eps>
+(epstopdf)             \includegraphics on input line 224.
 Package epstopdf Info: Output file is already uptodate.
-<exafs_ta15-eps-converted-to.pdf, id=275, 243.91125pt x 177.66376pt>
-File: exafs_ta15-eps-converted-to.pdf Graphic file (type pdf)
-<use exafs_ta15-eps-converted-to.pdf>
-Package pdftex.def Info: exafs_ta15-eps-converted-to.pdf  used on input line 22
-9.
+<./assets/exafs_ta15-eps-converted-to.pdf, id=275, 243.91125pt x 177.66376pt>
+File: ./assets/exafs_ta15-eps-converted-to.pdf Graphic file (type pdf)
+<use ./assets/exafs_ta15-eps-converted-to.pdf>
+Package pdftex.def Info: ./assets/exafs_ta15-eps-converted-to.pdf  used on inpu
+t line 224.
 (pdftex.def)             Requested size: 203.99689pt x 148.59132pt.
-Package epstopdf Info: Source file: <exafs_ta12.eps>
-(epstopdf)                    date: 2018-05-14 22:54:32
+Package epstopdf Info: Source file: <./assets/exafs_ta12.eps>
+(epstopdf)                    date: 2021-03-14 23:29:58
 (epstopdf)                    size: 73580 bytes
-(epstopdf)             Output file: <exafs_ta12-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-07-13 03:35:22
-(epstopdf)                    size: 28985 bytes
-(epstopdf)             Command: <repstopdf --outfile=exafs_ta12-eps-converted-t
-o.pdf exafs_ta12.eps>
-(epstopdf)             \includegraphics on input line 231.
+(epstopdf)             Output file: <./assets/exafs_ta12-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-03-14 23:34:39
+(epstopdf)                    size: 29198 bytes
+(epstopdf)             Command: <repstopdf --outfile=./assets/exafs_ta12-eps-co
+nverted-to.pdf ./assets/exafs_ta12.eps>
+(epstopdf)             \includegraphics on input line 226.
 Package epstopdf Info: Output file is already uptodate.
-<exafs_ta12-eps-converted-to.pdf, id=276, 243.91125pt x 177.66376pt>
-File: exafs_ta12-eps-converted-to.pdf Graphic file (type pdf)
-<use exafs_ta12-eps-converted-to.pdf>
-Package pdftex.def Info: exafs_ta12-eps-converted-to.pdf  used on input line 23
-1.
+<./assets/exafs_ta12-eps-converted-to.pdf, id=276, 243.91125pt x 177.66376pt>
+File: ./assets/exafs_ta12-eps-converted-to.pdf Graphic file (type pdf)
+<use ./assets/exafs_ta12-eps-converted-to.pdf>
+Package pdftex.def Info: ./assets/exafs_ta12-eps-converted-to.pdf  used on inpu
+t line 226.
 (pdftex.def)             Requested size: 203.99689pt x 148.59132pt.
-Package epstopdf Info: Source file: <exafs_ta8.eps>
-(epstopdf)                    date: 2018-05-14 22:54:08
+Package epstopdf Info: Source file: <./assets/exafs_ta8.eps>
+(epstopdf)                    date: 2021-03-14 23:29:58
 (epstopdf)                    size: 73038 bytes
-(epstopdf)             Output file: <exafs_ta8-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-07-13 03:35:24
-(epstopdf)                    size: 28905 bytes
-(epstopdf)             Command: <repstopdf --outfile=exafs_ta8-eps-converted-to
-.pdf exafs_ta8.eps>
-(epstopdf)             \includegraphics on input line 233.
+(epstopdf)             Output file: <./assets/exafs_ta8-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-03-14 23:34:39
+(epstopdf)                    size: 29118 bytes
+(epstopdf)             Command: <repstopdf --outfile=./assets/exafs_ta8-eps-con
+verted-to.pdf ./assets/exafs_ta8.eps>
+(epstopdf)             \includegraphics on input line 228.
 Package epstopdf Info: Output file is already uptodate.
-<exafs_ta8-eps-converted-to.pdf, id=277, 243.91125pt x 177.66376pt>
-File: exafs_ta8-eps-converted-to.pdf Graphic file (type pdf)
-<use exafs_ta8-eps-converted-to.pdf>
-Package pdftex.def Info: exafs_ta8-eps-converted-to.pdf  used on input line 233
-.
+<./assets/exafs_ta8-eps-converted-to.pdf, id=277, 243.91125pt x 177.66376pt>
+File: ./assets/exafs_ta8-eps-converted-to.pdf Graphic file (type pdf)
+<use ./assets/exafs_ta8-eps-converted-to.pdf>
+Package pdftex.def Info: ./assets/exafs_ta8-eps-converted-to.pdf  used on input
+ line 228.
 (pdftex.def)             Requested size: 203.99689pt x 148.59132pt.
-Package epstopdf Info: Source file: <ta-o.eps>
-(epstopdf)                    date: 2020-12-03 22:53:52
+Package epstopdf Info: Source file: <./assets/ta-o.eps>
+(epstopdf)                    date: 2021-03-14 23:30:41
 (epstopdf)                    size: 77338 bytes
-(epstopdf)             Output file: <ta-o-eps-converted-to.pdf>
-(epstopdf)                    date: 2020-12-04 01:48:48
-(epstopdf)                    size: 17502 bytes
-(epstopdf)             Command: <repstopdf --outfile=ta-o-eps-converted-to.pdf 
-ta-o.eps>
-(epstopdf)             \includegraphics on input line 242.
-Package epstopdf Info: Output file is already uptodate.
-<ta-o-eps-converted-to.pdf, id=278, 794.97pt x 578.16pt>
-File: ta-o-eps-converted-to.pdf Graphic file (type pdf)
-<use ta-o-eps-converted-to.pdf>
-Package pdftex.def Info: ta-o-eps-converted-to.pdf  used on input line 242.
-(pdftex.def)             Requested size: 203.99689pt x 148.35956pt.
-Package epstopdf Info: Source file: <ta-ta.eps>
-(epstopdf)                    date: 2020-12-03 22:53:22
-(epstopdf)                    size: 96753 bytes
-(epstopdf)             Output file: <ta-ta-eps-converted-to.pdf>
-(epstopdf)                    date: 2020-12-04 01:48:50
-(epstopdf)                    size: 19568 bytes
-(epstopdf)             Command: <repstopdf --outfile=ta-ta-eps-converted-to.pdf
- ta-ta.eps>
+(epstopdf)             Output file: <./assets/ta-o-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-03-14 23:34:40
+(epstopdf)                    size: 17717 bytes
+(epstopdf)             Command: <repstopdf --outfile=./assets/ta-o-eps-converte
+d-to.pdf ./assets/ta-o.eps>
 (epstopdf)             \includegraphics on input line 244.
 Package epstopdf Info: Output file is already uptodate.
-<ta-ta-eps-converted-to.pdf, id=279, 794.97pt x 578.16pt>
-File: ta-ta-eps-converted-to.pdf Graphic file (type pdf)
-<use ta-ta-eps-converted-to.pdf>
-Package pdftex.def Info: ta-ta-eps-converted-to.pdf  used on input line 244.
+<./assets/ta-o-eps-converted-to.pdf, id=278, 794.97pt x 578.16pt>
+File: ./assets/ta-o-eps-converted-to.pdf Graphic file (type pdf)
+<use ./assets/ta-o-eps-converted-to.pdf>
+Package pdftex.def Info: ./assets/ta-o-eps-converted-to.pdf  used on input line
+ 244.
 (pdftex.def)             Requested size: 203.99689pt x 148.35956pt.
-Package epstopdf Info: Source file: <N.eps>
-(epstopdf)                    date: 2020-12-03 22:54:16
-(epstopdf)                    size: 84570 bytes
-(epstopdf)             Output file: <N-eps-converted-to.pdf>
-(epstopdf)                    date: 2020-12-04 01:56:18
-(epstopdf)                    size: 18039 bytes
-(epstopdf)             Command: <repstopdf --outfile=N-eps-converted-to.pdf N.e
-ps>
+Package epstopdf Info: Source file: <./assets/ta-ta.eps>
+(epstopdf)                    date: 2021-03-14 23:30:41
+(epstopdf)                    size: 96753 bytes
+(epstopdf)             Output file: <./assets/ta-ta-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-03-14 23:34:40
+(epstopdf)                    size: 19784 bytes
+(epstopdf)             Command: <repstopdf --outfile=./assets/ta-ta-eps-convert
+ed-to.pdf ./assets/ta-ta.eps>
 (epstopdf)             \includegraphics on input line 246.
 Package epstopdf Info: Output file is already uptodate.
-<N-eps-converted-to.pdf, id=280, 794.97pt x 578.16pt>
-File: N-eps-converted-to.pdf Graphic file (type pdf)
-<use N-eps-converted-to.pdf>
-Package pdftex.def Info: N-eps-converted-to.pdf  used on input line 246.
+<./assets/ta-ta-eps-converted-to.pdf, id=279, 794.97pt x 578.16pt>
+File: ./assets/ta-ta-eps-converted-to.pdf Graphic file (type pdf)
+<use ./assets/ta-ta-eps-converted-to.pdf>
+Package pdftex.def Info: ./assets/ta-ta-eps-converted-to.pdf  used on input lin
+e 246.
 (pdftex.def)             Requested size: 203.99689pt x 148.35956pt.
-Package epstopdf Info: Source file: <oo_distance.eps>
-(epstopdf)                    date: 2020-12-03 22:52:52
-(epstopdf)                    size: 78228 bytes
-(epstopdf)             Output file: <oo_distance-eps-converted-to.pdf>
-(epstopdf)                    date: 2020-12-04 01:55:26
-(epstopdf)                    size: 19121 bytes
-(epstopdf)             Command: <repstopdf --outfile=oo_distance-eps-converted-
-to.pdf oo_distance.eps>
+Package epstopdf Info: Source file: <./assets/N.eps>
+(epstopdf)                    date: 2021-03-14 23:30:40
+(epstopdf)                    size: 84570 bytes
+(epstopdf)             Output file: <./assets/N-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-03-14 23:34:41
+(epstopdf)                    size: 18252 bytes
+(epstopdf)             Command: <repstopdf --outfile=./assets/N-eps-converted-t
+o.pdf ./assets/N.eps>
 (epstopdf)             \includegraphics on input line 248.
 Package epstopdf Info: Output file is already uptodate.
-<oo_distance-eps-converted-to.pdf, id=281, 794.97pt x 578.16pt>
-File: oo_distance-eps-converted-to.pdf Graphic file (type pdf)
-<use oo_distance-eps-converted-to.pdf>
-Package pdftex.def Info: oo_distance-eps-converted-to.pdf  used on input line 2
-48.
+<./assets/N-eps-converted-to.pdf, id=280, 794.97pt x 578.16pt>
+File: ./assets/N-eps-converted-to.pdf Graphic file (type pdf)
+<use ./assets/N-eps-converted-to.pdf>
+Package pdftex.def Info: ./assets/N-eps-converted-to.pdf  used on input line 24
+8.
+(pdftex.def)             Requested size: 203.99689pt x 148.35956pt.
+Package epstopdf Info: Source file: <./assets/oo_distance.eps>
+(epstopdf)                    date: 2021-03-14 23:30:40
+(epstopdf)                    size: 78228 bytes
+(epstopdf)             Output file: <./assets/oo_distance-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2021-03-14 23:34:41
+(epstopdf)                    size: 19334 bytes
+(epstopdf)             Command: <repstopdf --outfile=./assets/oo_distance-eps-c
+onverted-to.pdf ./assets/oo_distance.eps>
+(epstopdf)             \includegraphics on input line 250.
+Package epstopdf Info: Output file is already uptodate.
+<./assets/oo_distance-eps-converted-to.pdf, id=281, 794.97pt x 578.16pt>
+File: ./assets/oo_distance-eps-converted-to.pdf Graphic file (type pdf)
+<use ./assets/oo_distance-eps-converted-to.pdf>
+Package pdftex.def Info: ./assets/oo_distance-eps-converted-to.pdf  used on inp
+ut line 250.
 (pdftex.def)             Requested size: 203.99689pt x 148.35956pt.
 
-Underfull \hbox (badness 2027) in paragraph at lines 262--263
+Underfull \hbox (badness 2027) in paragraph at lines 265--266
 \OT1/cmr/m/n/10 ci-date trends from pre-vi-ous stud-ies on amor-phous
  []
 
-[7] [8 <./exafs_ta2o5-eps-converted-to.pdf> <./exafs_ta15-eps-converted-to.pdf>
- <./exafs_ta12-eps-converted-to.pdf> <./exafs_ta8-eps-converted-to.pdf>]
-(./main-revRBvD2.bbl [9 <./ta-o-eps-converted-to.pdf> <./ta-ta-eps-converted-to
-.pdf> <./N-eps-converted-to.pdf> <./oo_distance-eps-converted-to.pdf>]
+[7] [8 <./assets/exafs_ta2o5-eps-converted-to.pdf> <./assets/exafs_ta15-eps-con
+verted-to.pdf> <./assets/exafs_ta12-eps-converted-to.pdf> <./assets/exafs_ta8-e
+ps-converted-to.pdf>] (./main_v3.bbl
+Overfull \vbox (8.33273pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (8.33273pt too high) has occurred while \output is active []
+
+
+[9 <./assets/ta-o-eps-converted-to.pdf> <./assets/ta-ta-eps-converted-to.pdf> <
+./assets/N-eps-converted-to.pdf> <./assets/oo_distance-eps-converted-to.pdf>]
 Underfull \hbox (badness 1509) in paragraph at lines 84--92
  \OT1/cmr/m/n/9 er-ties of amor-phous ta-ge-o and ta-si-o thin films,
  []
@@ -682,45 +701,45 @@ File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <9> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 424.
  [10]) [11]
-(./main-revRBvD2.aux) ) 
+(./main_v3.aux) ) 
 Here is how much of TeX's memory you used:
- 6333 strings out of 479023
- 103090 string characters out of 5859412
- 459282 words of memory out of 5000000
- 23708 multiletter control sequences out of 15000+600000
+ 6359 strings out of 479023
+ 104387 string characters out of 5859412
+ 461149 words of memory out of 5000000
+ 23733 multiletter control sequences out of 15000+600000
  415904 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 85i,14n,88p,2076b,424s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-s
-uper/cm-super-ts1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmbx10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmbx9.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmex10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmmi10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmmi12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmmi5.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmmi6.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mmi7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmm
-i9.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10
-.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.p
-fb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb
-></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></
-usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr
-/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/lo
-cal/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local
-/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/te
-xlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/tex
-live/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/local/texl
-ive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/tex
-live/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
-ive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texliv
-e/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/
-2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/20
-20/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/202
-0/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2020/
-texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on main-revRBvD2.pdf (11 pages, 1170690 bytes).
+ 85i,14n,88p,2078b,424s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/c
+m-super-ts1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmbx10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmbx9.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmex10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mmi10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+mi12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmm
+i5.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6
+.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.p
+fb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb
+></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
+/usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
+sr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr
+/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/lo
+cal/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local
+/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/te
+xlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texli
+ve/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/
+2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2
+020/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/local/texlive/20
+20/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2
+020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/20
+20/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2020
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2020/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2020/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2020/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2020/texmf-
+dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on main_v3.pdf (11 pages, 1171165 bytes).
 PDF statistics:
  769 PDF objects out of 1000 (max. 8388607)
  372 compressed objects within 4 object streams
