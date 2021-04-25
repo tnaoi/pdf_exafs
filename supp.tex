@@ -1,0 +1,54 @@
+\documentclass[aps,prb,numerical,superscriptaddress,citeautoscript,showkeys,11pt,reprint]{revtex4-2}
+
+\usepackage{bm}
+\usepackage{graphicx}
+\usepackage{textcomp}
+\usepackage{multirow}
+\usepackage{hhline}
+
+\usepackage[caption=false]{subfig}
+
+\begin{document}
+
+\title{Supplemental Information: Atomic structure determination of mixed amorphous Ta$_{2}$O$_{5}$-GeO$_{2}$ thin films deposited on silicon nitride membranes} 
+
+\author{T. A. Naoi}
+\author{S. J. Honrao}
+ \affiliation{Department of Materials Science and Engineering, Cornell University, Ithaca, New York 14853, USA}
+
+\author{L. W. Taylor}
+ \affiliation{Department of Chemical Engineering, Cornell University, Ithaca, New York 14853, USA}
+
+\author{D. S. Dale}
+ \affiliation{Cornell High Energy Synchrotron Source, Cornell University, Ithaca, New York 14853, USA}
+  
+\author{R. G. Hennig}
+ \affiliation{Department of Materials Science and Engineering, University of Florida, Gainesville, Florida 32611, USA}
+
+\author{R. B. van Dover}
+ \affiliation{Department of Materials Science and Engineering, Cornell University, Ithaca, New York 14853, USA}
+
+\maketitle 
+
+\section{Calculation of dielectric constants for T\lowercase{a}$_{x}$G\lowercase{e}$_{1-x}$O$_{2+x/2}$}
+ 
+\renewcommand{\thefigure}{S\arabic{figure}}
+\setcounter{figure}{0}
+
+\begin{figure}[htp]
+\centering
+\includegraphics[width=0.5\textwidth]{./assets/dc.eps}
+\caption{The calculated dielectric constants for Ta$_{x}$Ge$_{1-x}$O$_{2+x/2}$ as a function of Ta cation composition.}
+\label{fig:epsilon}
+\end{figure} 
+
+We use density functional perturbation theory (DFPT) \cite{PhysRevLett.58.1861} to calculate the static dielectric tensors for three amorphous structures at each of the following compositions: Ta$_{0.5}$Ge$_{0.5}$O$_{y}$ (Ta$_{8}$Ge$_{8}$O$_{40}$), Ta$_{0.75}$Ge$_{0.25}$O$_{y}$ (Ta$_{12}$Ge$_{40}$O$_{40}$), Ta$_{0.875}$Ge$_{0.1250}$O$_{y}$ (Ta$_{14}$Ge$_{2}$O$_{40}$), Ta$_{0.9375}$Ge$_{0.06250}$O$_{y}$ (Ta$_{15}$Ge$_{1}$O$_{40}$), and pure Ta$_{2}$O$_{5}$. The methods to generate the amorphous structures are described in the main text. Density-functional theory (DFT) calculations were carried out with the Vienna Ab-initio Software Package (VASP) \cite{PhysRevB.47.558,PhysRevB.49.14251,KRESSE199615,PhysRevB.54.11169} using the PBE exchange-correlation functional \cite{PhysRevLett.77.3865}, and the projector augmented wave method \cite{PhysRevB.50.17953,PhysRevB.59.1758}. The Brillouin zone integration was performed using a 3x3x2 Gamma centered k-point mesh \cite{PhysRevB.13.5188}. The kinetic energy cutoff for the plane wave basis was set to 400 eV, and the corresponding cutoff energies for the augmentation function was set to 650 eV.
+
+The dielectric constants are obtained as one third of the trace of the dielectric tensors. The mean dielectric constants, averaged over all three structures at a given composition, are plotted in Figure \ref{fig:epsilon}. The error bars denote the standard deviation of the mean. Although DFT, using semi-local exchange-correlation functionals, accurately predicts structural properties, it is known to underestimate electronic band gaps and is generally less accurate for other electronic properties too. The predicted dielectric constants by DFT underestimate the experimental values. However, we observe the same trend in the dielectric behavior as measured in our previous work \cite{Naoi2018jap}. For structures with $x = 0.5$ and $x = 0.75$, the mean dielectric constant values are close to that of pure amorphous Ta$_{2}$O$_{5}$. However, for more Ta-rich compositions ($x = 0.875$ and $x = 0.9375$), the values show a dramatic increase like the one observed experimentally. This agreement indicates that our simulated structures possess local structures similar to that of the experimental samples, justifying our choice of using them to fit the EXAFS spectra.
+
+
+% REFERENCES
+\bibliography{library.bib}
+
+\end{document}
+% ***** End ******
